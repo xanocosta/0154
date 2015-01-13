@@ -1,0 +1,85 @@
+.wraper{
+	width: 75%;
+	margin: 0 auto;
+}
+
+
+.header{
+	background-color: #CED1D2;
+	width: 100%;
+	float: left;
+	height: 150px; 
+}
+
+.navigation{
+	
+	float: left;
+	margin-left: 13%;
+}
+
+.slider{
+	background-color: #CED1D2;
+	float: left;
+}
+
+.logo{
+	float: left;
+}
+
+.conta{
+	float: right;
+}
+
+.banner{
+	margin: 1%;
+	float: left;
+}
+
+.caixas{
+	margin: 2%;
+	width: 100%;
+}
+
+.caixa1{
+	width: 33%;
+	height: 450px;
+	float: left;
+}
+
+.caixa2{
+	width: 33%;
+	height: 450px;
+	float: left;
+}
+
+.caixa3{
+	width: 33%;
+	height: 450px;
+	float: right;
+}
+
+
+.footer{
+	width: 100%;
+	float: left;
+}
+
+.escuro{
+	background-color: #666666;
+	width: 100%;
+}
+
+.claro{
+	background-color: #999999;
+	width: 100%;
+	float: left;
+}
+
+.direitos{
+	float: left;
+	width: 50%;
+}
+
+.final{
+	width: 
+}
